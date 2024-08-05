@@ -1,0 +1,2 @@
+# On exclut du commit la sauvegarde de l'avant dernière version
+/.ipynb_checkpoints
